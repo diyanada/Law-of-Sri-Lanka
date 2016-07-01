@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Law of Sri Lanka", "Law of Sri Lanka\Law of Sri Lanka.csproj", "{9183B352-7503-47F8-ABCD-D6D3F04382AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{CC882962-4996-4D52-82E4-AD48656E6799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9183B352-7503-47F8-ABCD-D6D3F04382AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9183B352-7503-47F8-ABCD-D6D3F04382AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9183B352-7503-47F8-ABCD-D6D3F04382AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9183B352-7503-47F8-ABCD-D6D3F04382AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC882962-4996-4D52-82E4-AD48656E6799}.Debug|Any CPU.ActiveCfg = Debug
+		{CC882962-4996-4D52-82E4-AD48656E6799}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

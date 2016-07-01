@@ -1,0 +1,11 @@
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Acts_of_Sri_Lanka.Amendments.resources
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Acts_of_Sri_Lanka.Face.resources
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Acts_of_Sri_Lanka.FaceForm.resources
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Law_of_Sri_Lanka.Properties.Resources.resources
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Law of Sri Lanka.csproj.GenerateResource.Cache
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\bin\Debug\Law of Sri Lanka.exe
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\bin\Debug\Law of Sri Lanka.pdb
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Acts_of_Sri_Lanka.Loader.resources
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Law of Sri Lanka.exe
+C:\Project\C-Sharp\Law of Sri Lanka\Law of Sri Lanka\obj\Debug\Law of Sri Lanka.pdb

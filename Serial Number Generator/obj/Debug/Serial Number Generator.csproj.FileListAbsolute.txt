@@ -1,0 +1,5 @@
+C:\Project\C-Sharp\Act Lanka\Serial Number Generator\bin\Debug\Serial Number Generator.exe
+C:\Project\C-Sharp\Act Lanka\Serial Number Generator\bin\Debug\Serial Number Generator.pdb
+C:\Project\C-Sharp\Act Lanka\Serial Number Generator\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Act Lanka\Serial Number Generator\obj\Debug\Serial Number Generator.exe
+C:\Project\C-Sharp\Act Lanka\Serial Number Generator\obj\Debug\Serial Number Generator.pdb
